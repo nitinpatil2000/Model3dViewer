@@ -64,9 +64,8 @@ tap-to-front · automated leak-check script.
 Open in Android Studio (min SDK 24), sync, run. Signed release APK provided
 separately.
 
-## Pushing to GitHub
-```
-git add README.md
-git commit -m "Add README with architecture, optimizations and trade-offs"
-git push -u origin main
-```
+## Demo
+
+https://github.com/user-attachments/assets/9b8baa12-b06f-494b-86c9-16183f4d48fe
+
+
