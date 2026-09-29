@@ -58,7 +58,7 @@ tap-to-front · automated leak-check script.
 - Memory: `adb shell dumpsys meminfo` snapshots (empty → 5 loaded → closed),
   repeated across rounds — Native Heap/Graphics return to baseline after
   close, no leak across repeat add/close cycles.
-- **Tested on**: `[aapna device model + Android version yahan likho]`
+- **Tested on**: `Motorola G60 5G`
 
 ## Build
 Open in Android Studio (min SDK 24), sync, run. Signed release APK provided
