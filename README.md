@@ -68,4 +68,17 @@ separately.
 
 https://github.com/user-attachments/assets/9b8baa12-b06f-494b-86c9-16183f4d48fe
 
+## 🚀 Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/nitinpatil2000/Model3dViewer.git
+   ```
+2. Open in **Android Studio**
+3. Sync Gradle and run on an emulator/device
+
+## 📄 License
+
+This project is open source and available for learning purposes.
+
 
